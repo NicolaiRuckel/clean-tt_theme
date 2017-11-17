@@ -1,0 +1,23 @@
+{
+    "ToolbarShow": true,
+    "ColorsSet": {
+        "toolbar_background": "#ffffff",
+        "button_background": "#ffffff",
+        "button_border": "#ffffff",
+        "button_hover_border": "#ffffff",
+        "pin_list_background": "#ffffff",
+        "tab_background": "#ffffff",
+        "tab_border": "#ffffff",
+        "tab_discarded_border": "#ffffff",
+        "tab_list_background": "#ffffff",
+        "group_list_background": "#ffffff",
+        "group_list_default_font_color": "#000000",
+        "tab_discarded_background": "#ffffff",
+        "tab_active_hover_title_font_weight": "normal"
+    },
+    "TabsSizeSetNumber": 4,
+    "theme_name": "clean",
+    "theme_version": 2,
+    "toolbar": "<div id=\"toolbar_main\"><div class=\"button\" id=\"button_new_group\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_edit_group\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_search\"><div class=\"button_img\"></div></div></div><div class=\"toolbar_shelf hidden\" id=\"toolbar_search\"><div id=\"toolbar_search_input_box\"><input id=\"filter_box\" placeholder=\"Search\" tabs...=\"\" type=\"text\"><div id=\"button_filter_clear\" style=\"opacity: 0; position: absolute;\" type=\"reset\"></div></div><div id=\"toolbar_search_buttons\"><div class=\"button url\" id=\"button_filter_type\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"filter_search_go_prev\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"filter_search_go_next\"><div class=\"button_img\"></div></div></div></div><div class=\"toolbar_shelf hidden\" id=\"toolbar_shelf_tools\"><div class=\"button\" id=\"button_options\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_move\"><div class=\"button_img\"></div></div></div><div class=\"toolbar_shelf\" id=\"toolbar_shelf_groups\"><div class=\"button\" id=\"button_groups_toolbar_hide\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_remove_group\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_import_group\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_export_group\"><div class=\"button_img\"></div></div></div><div class=\"toolbar_shelf hidden\" id=\"toolbar_shelf_backup\"><div class=\"button\" id=\"button_import_bak\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_import_merge_bak\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_export_bak\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_load_bak1\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_load_bak2\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_load_bak3\"><div class=\"button_img\"></div></div></div>",
+    "unused_buttons": "<div class=\"button\" id=\"button_new\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_pin\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_undo\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_tools\"><div class=\"button_img\"></div></div><div class=\"button on\" id=\"button_groups\"><div class=\"button_img\"></div></div><div class=\"button\" id=\"button_backup\" draggable=\"true\"><div class=\"button_img\"></div></div>"
+}
